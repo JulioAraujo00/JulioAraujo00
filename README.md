@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Julio, 31 years old and starting on developer carrer. 
+
+Currently studying Systems Analysis and Development and also front-end developer technologies on the Alura platform on Brazil.
+
+I’m learning JavaScript, also React and initiating on Node and SQL.
+
+If you want do reach me, here's my linkedIn Profile: www.linkedin.com/in/julio-araujo-a7719267
+
+
 <!--
 **JulioAraujo00/JulioAraujo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
