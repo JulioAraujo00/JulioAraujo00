@@ -6,7 +6,7 @@ Currently studying Systems Analysis and Development and also front-end developer
 
 I’m learning JavaScript, also React and initiating on Node and SQL.
 
-If you want do reach me, here's my linkedIn Profile: www.linkedin.com/in/julio-araujo-a7719267
+If you want to reach me, here's my linkedIn Profile: www.linkedin.com/in/julio-araujo-a7719267
 
 
 <!--
