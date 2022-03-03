@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Julio, 31 years old and starting on developer carrer. 
-
 Currently studying Systems Analysis and Development and also front-end developer technologies on the Alura platform on Brazil.
 
 I’m learning JavaScript, also React and initiating on Node and SQL.
