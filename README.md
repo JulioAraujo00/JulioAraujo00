@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Currently studying Systems Analysis and Development and also front-end developer technologies on the Alura platform on Brazil.
+Currently studying Systems Analysis and Development and also FullStack developer technologies on the Alura platform on Brazil.
 
 Software engineer intern at's Loggi
 
-If you want to reach me, here's my linkedIn Profile: www.linkedin.com/in/julio-araujo-a7719267
+If you want to reach me, here's my linkedIn Profile: [LinkedIn](https://www.linkedin.com/in/julio-araujo-a7719267) 
 
 
 <!--
